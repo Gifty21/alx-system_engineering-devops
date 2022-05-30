@@ -1,2 +1,2 @@
 #!/bin/bashs > Hello, World
-pwd > Hello, World
+echo “Hello, World”
